@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pragyan AI</string>
+    <string name="accessibility_service_description">Enables Pragyan AI to perform user-commanded navigation and smooth scrolling gestures.</string>
+    <string name="pragyan_backend_url">http://10.0.2.2:3000</string>
+</resources>

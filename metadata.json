@@ -1,0 +1,11 @@
+{
+  "name": "Pragyan AI",
+  "description": "All-in-one AI assistant for students and general users featuring AI Chat, Voice Assistant, PDF Reader, Study Planner, and Notes Summarizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
